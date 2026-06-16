@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("carshowroomapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313c5f4345522dfd6ad6e18423ca5472a3e8b50d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bced333b212de1f03c3ed1516ac85e4d7d689e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("carshowroomapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("carshowroomapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

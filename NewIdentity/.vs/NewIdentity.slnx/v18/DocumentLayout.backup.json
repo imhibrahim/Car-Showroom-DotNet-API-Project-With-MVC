@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C---Working-\\C#\\NewIdentity\\",
+  "WorkspaceRootPath": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\car-showroom-dotnet-api-project-with-mvc\\newidentity\\newidentity\\views\\car\\fatch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\car\\fatch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\car-showroom-dotnet-api-project-with-mvc\\newidentity\\newidentity\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\car-showroom-dotnet-api-project-with-mvc\\newidentity\\newidentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\car-showroom-dotnet-api-project-with-mvc\\newidentity\\newidentity\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\car-showroom-dotnet-api-project-with-mvc\\newidentity\\newidentity\\models\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\models\\carimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\car-showroom-dotnet-api-project-with-mvc\\newidentity\\newidentity\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,49 +50,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "delete.cshtml",
-              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\delete.cshtml",
-              "RelativeDocumentMoniker": "NewIdentity\\Views\\Customer\\delete.cshtml",
-              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\delete.cshtml",
-              "RelativeToolTip": "NewIdentity\\Views\\Customer\\delete.cshtml",
+              "DocumentIndex": 0,
+              "Title": "fatch.cshtml",
+              "DocumentMoniker": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Views\\Car\\fatch.cshtml",
+              "RelativeDocumentMoniker": "NewIdentity\\Views\\Car\\fatch.cshtml",
+              "ToolTip": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Views\\Car\\fatch.cshtml",
+              "RelativeToolTip": "NewIdentity\\Views\\Car\\fatch.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-13T08:01:17.711Z"
+              "WhenOpened": "2026-06-16T07:51:00.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "details.cshtml",
-              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\details.cshtml",
-              "RelativeDocumentMoniker": "NewIdentity\\Views\\Customer\\details.cshtml",
-              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\details.cshtml",
-              "RelativeToolTip": "NewIdentity\\Views\\Customer\\details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-13T07:57:54.618Z"
+              "DocumentIndex": 4,
+              "Title": "CarImage.cs",
+              "DocumentMoniker": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Models\\CarImage.cs",
+              "RelativeDocumentMoniker": "NewIdentity\\Models\\CarImage.cs",
+              "ToolTip": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Models\\CarImage.cs",
+              "RelativeToolTip": "NewIdentity\\Models\\CarImage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:23:13.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "edit.cshtml",
-              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\edit.cshtml",
-              "RelativeDocumentMoniker": "NewIdentity\\Views\\Customer\\edit.cshtml",
-              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\edit.cshtml",
-              "RelativeToolTip": "NewIdentity\\Views\\Customer\\edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewIdentity\\Views\\Car\\Index.cshtml",
+              "ToolTip": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "NewIdentity\\Views\\Car\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-13T07:45:11.556Z"
+              "WhenOpened": "2026-06-16T07:11:52.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "NewIdentity\\Controllers\\CarController.cs",
+              "ToolTip": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Controllers\\CarController.cs",
+              "RelativeToolTip": "NewIdentity\\Controllers\\CarController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:05:15.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "NewIdentity\\Models\\Car.cs",
+              "ToolTip": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Models\\Car.cs",
+              "RelativeToolTip": "NewIdentity\\Models\\Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:04:14.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "NewIdentity\\Controllers\\CustomerController.cs",
-              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "NewIdentity\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAAAEgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T06:54:49.197Z",
               "EditorCaption": ""

@@ -25,6 +25,8 @@ public class userDbContext : IdentityDbContext<user>
 
 public DbSet<NewIdentity.Models.Customer> Customer { get; set; } = default!;
 
+public DbSet<NewIdentity.Models.Car> Car { get; set; } = default!;
+
 }
 
 internal class userconfiguration : IEntityTypeConfiguration<user>

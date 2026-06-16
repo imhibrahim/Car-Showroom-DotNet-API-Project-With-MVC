@@ -1,5 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\8b434919-11eb-47e1-8c7c-1a8d2249b208_ibrahim.png
+wwwroot\images\e74a1ed2-04a9-4324-b861-b7be7ae7b65d_ibrahim.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

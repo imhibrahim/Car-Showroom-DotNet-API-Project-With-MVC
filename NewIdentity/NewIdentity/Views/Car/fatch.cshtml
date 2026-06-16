@@ -1,0 +1,94 @@
+﻿@model IEnumerable<NewIdentity.Models.Car>
+
+@{
+    ViewData["Title"] = "fatch";
+}
+
+<h1>fatch</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.brand)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.color)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stockQuantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isAvailable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.imageUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stockQuantity)
+            </td>
+            <td>
+                    @{
+                       
+                        if (item.isAvailable==true)
+                        {
+                            <button class="btn btn-success rounded">Availible</button>
+                        }
+                        else
+                        {
+                            <button class="btn btn-danger rounded">Not Availible</button>
+                        }
+                    }
+            </td>
+            <td>
+                    <img src="@item.imageUrl"
+                    width="80px" alt="Alternate Text" />
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

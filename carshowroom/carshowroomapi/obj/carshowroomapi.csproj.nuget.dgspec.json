@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C---Working-\\carshowroom\\carshowroomapi\\carshowroomapi.csproj": {}
+    "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\carshowroom\\carshowroomapi\\carshowroomapi.csproj": {}
   },
   "projects": {
-    "E:\\C---Working-\\carshowroom\\carshowroomapi\\carshowroomapi.csproj": {
+    "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\carshowroom\\carshowroomapi\\carshowroomapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C---Working-\\carshowroom\\carshowroomapi\\carshowroomapi.csproj",
+        "projectUniqueName": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\carshowroom\\carshowroomapi\\carshowroomapi.csproj",
         "projectName": "carshowroomapi",
-        "projectPath": "E:\\C---Working-\\carshowroom\\carshowroomapi\\carshowroomapi.csproj",
+        "projectPath": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\carshowroom\\carshowroomapi\\carshowroomapi.csproj",
         "packagesPath": "C:\\Users\\Muhammad Ibrahim\\.nuget\\packages\\",
-        "outputPath": "E:\\C---Working-\\carshowroom\\carshowroomapi\\obj\\",
+        "outputPath": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\carshowroom\\carshowroomapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

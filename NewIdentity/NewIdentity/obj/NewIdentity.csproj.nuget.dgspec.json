@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\NewIdentity.csproj": {}
+    "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\NewIdentity.csproj": {}
   },
   "projects": {
-    "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\NewIdentity.csproj": {
+    "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\NewIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\NewIdentity.csproj",
+        "projectUniqueName": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\NewIdentity.csproj",
         "projectName": "NewIdentity",
-        "projectPath": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\NewIdentity.csproj",
+        "projectPath": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\NewIdentity.csproj",
         "packagesPath": "C:\\Users\\Muhammad Ibrahim\\.nuget\\packages\\",
-        "outputPath": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\obj\\",
+        "outputPath": "E:\\Car-Showroom-DotNet-API-Project-With-MVC\\NewIdentity\\NewIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
