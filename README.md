@@ -1,0 +1,1 @@
+Car Showroom Management System built with ASP.NET Core Web API and ASP.NET Core MVC. The project provides a complete backend API for managing cars, bookings, customers, and showroom operations, while the MVC frontend delivers a user-friendly interface for interacting with the system. Developed using C#, Entity Framework Core, SQL Server, and RESTful API architecture.
