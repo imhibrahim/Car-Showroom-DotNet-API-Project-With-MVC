@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C---Working-\\C#\\NewIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|e:\\c---working-\\c#\\newidentity\\newidentity\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD5997E-DBF8-D11A-11EA-EA3EB34FF960}|NewIdentity\\NewIdentity.csproj|solutionrelative:newidentity\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\delete.cshtml",
+              "RelativeDocumentMoniker": "NewIdentity\\Views\\Customer\\delete.cshtml",
+              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\delete.cshtml",
+              "RelativeToolTip": "NewIdentity\\Views\\Customer\\delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T08:01:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\details.cshtml",
+              "RelativeDocumentMoniker": "NewIdentity\\Views\\Customer\\details.cshtml",
+              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\details.cshtml",
+              "RelativeToolTip": "NewIdentity\\Views\\Customer\\details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:57:54.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\edit.cshtml",
+              "RelativeDocumentMoniker": "NewIdentity\\Views\\Customer\\edit.cshtml",
+              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Views\\Customer\\edit.cshtml",
+              "RelativeToolTip": "NewIdentity\\Views\\Customer\\edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-13T07:45:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "NewIdentity\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\C---Working-\\C#\\NewIdentity\\NewIdentity\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "NewIdentity\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAEgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:54:49.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

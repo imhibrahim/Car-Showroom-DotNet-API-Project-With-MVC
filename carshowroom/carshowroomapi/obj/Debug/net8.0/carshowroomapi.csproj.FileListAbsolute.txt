@@ -1,0 +1,281 @@
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\appsettings.Development.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\appsettings.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\carshowroomapi.staticwebassets.endpoints.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\carshowroomapi.exe
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\carshowroomapi.deps.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\carshowroomapi.runtimeconfig.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\carshowroomapi.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\carshowroomapi.pdb
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.csproj.AssemblyReference.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.AssemblyInfoInputs.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.AssemblyInfo.cs
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.csproj.CoreCompileInputs.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.MvcApplicationPartsAssemblyInfo.cs
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.MvcApplicationPartsAssemblyInfo.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\scopedcss\bundle\carshowroomapi.styles.css
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\staticwebassets.build.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\staticwebassets.development.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\swae.build.ex.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowr.BFD9BF4D.Up2Date
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\refint\carshowroomapi.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.pdb
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\carshowroomapi.genruntimeconfig.cache
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\obj\Debug\net8.0\ref\carshowroomapi.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Azure.Core.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Azure.Identity.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Humanizer.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.CodeDom.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AI-2501T1 (9 to 11) TTS\ASPDotNet\carshowroomapi\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\appsettings.Development.json
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\appsettings.json
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\carshowroomapi.staticwebassets.endpoints.json
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\carshowroomapi.exe
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\carshowroomapi.deps.json
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\carshowroomapi.runtimeconfig.json
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\carshowroomapi.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\carshowroomapi.pdb
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Azure.Core.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Azure.Identity.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Humanizer.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.CodeDom.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C---Working-\carshowroom\carshowroomapi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.csproj.AssemblyReference.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.AssemblyInfoInputs.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.AssemblyInfo.cs
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.csproj.CoreCompileInputs.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.MvcApplicationPartsAssemblyInfo.cs
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.MvcApplicationPartsAssemblyInfo.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.sourcelink.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\scopedcss\bundle\carshowroomapi.styles.css
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\staticwebassets.build.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\staticwebassets.development.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\swae.build.ex.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowr.BFD9BF4D.Up2Date
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.dll
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\refint\carshowroomapi.dll
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.pdb
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\carshowroomapi.genruntimeconfig.cache
+E:\C---Working-\carshowroom\carshowroomapi\obj\Debug\net8.0\ref\carshowroomapi.dll
