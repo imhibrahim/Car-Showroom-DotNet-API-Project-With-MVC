@@ -28,12 +28,10 @@ namespace NewIdentity.Controllers
         {
             string filname = "";
             if (car != null) {
-                
                 string folder=Path.Combine(env.WebRootPath, "images");
                 filname= Guid.NewGuid().ToString() + "_" + car.path.FileName;
                 string filepath=Path.Combine(folder, filname);
                 car.path.CopyTo(new FileStream(filepath,FileMode.Create));
-
                 var carData = new
                 {
                     name = car.name,
@@ -51,12 +49,9 @@ namespace NewIdentity.Controllers
                 HttpResponseMessage response = client.PostAsync(url, content).Result;
                 if (response.IsSuccessStatusCode)
                 {
-
                     TempData["success"] = "Customer Created Successfully ......";
                     return RedirectToAction("fatch");
-                }
-            }
-
+                }}
             return View();
         }
 
@@ -78,5 +73,81 @@ namespace NewIdentity.Controllers
             return View(cars);
         }
 
+
+        public IActionResult edit(int id)
+        {
+            CarEdit car = new CarEdit();
+            HttpResponseMessage response = client.GetAsync(url + id).Result;
+            if (response.IsSuccessStatusCode)
+            {
+                string result = response.Content.ReadAsStringAsync().Result;
+                var data = JsonConvert.DeserializeObject<Car>(result);
+                car.id = data.id;
+                car.name = data.name;
+                car.brand = data.brand;
+                car.model = data.model;
+                car.price = data.price;
+                car.year = data.year;
+                car.color = data.color;
+                car.stockQuantity = data.stockQuantity;
+                car.isAvailable = data.isAvailable;
+                car.imageUrl = data.imageUrl;
+
+            }
+            return View(car);
+        }
+
+        [HttpPost]
+        [HttpPost]
+        public IActionResult Edit(CarEdit car)
+        {
+            string fileName = car.imageUrl;
+
+            if (car.path != null)
+            {
+                string folder = Path.Combine(env.WebRootPath, "images");
+
+                string newFileName =Guid.NewGuid().ToString() + "_" + car.path.FileName;
+                string filepath = Path.Combine(folder, newFileName);
+                car.path.CopyTo(new FileStream(filepath, FileMode.Create));
+
+                fileName = "/images/" + newFileName;
+            }
+
+            var carData = new
+            {
+                id = car.id,
+                name = car.name,
+                brand = car.brand,
+                model = car.model,
+                price = car.price,
+                year = car.year,
+                color = car.color,
+                stockQuantity = car.stockQuantity,
+                isAvailable = car.isAvailable,
+                imageUrl = fileName
+            };
+
+            var data = JsonConvert.SerializeObject(carData);
+
+            StringContent content = new StringContent(
+                data,
+                Encoding.UTF8,
+                "application/json");
+
+            HttpResponseMessage response =
+                client.PutAsync(url + car.id, content).Result;
+
+            if (response.IsSuccessStatusCode)
+            {
+                TempData["success"] = "Car Updated Successfully";
+                return RedirectToAction("fatch");
+            }
+
+            return View(car);
+        }
+
+
     }
-}
+    }
+

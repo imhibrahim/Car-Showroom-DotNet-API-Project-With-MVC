@@ -1,7 +1,10 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\8b434919-11eb-47e1-8c7c-1a8d2249b208_ibrahim.png
+wwwroot\images\b4a189c9-d784-4f08-b132-c1b4d827f42f_Muhammad Ibrahim.png
+wwwroot\images\cbf9a83b-cd7c-41d9-8703-9f072c677529_ibrahim.png
 wwwroot\images\e74a1ed2-04a9-4324-b861-b7be7ae7b65d_ibrahim.png
+wwwroot\images\ff0397a3-7b1a-4d5f-a196-a1f893b83851_angular.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

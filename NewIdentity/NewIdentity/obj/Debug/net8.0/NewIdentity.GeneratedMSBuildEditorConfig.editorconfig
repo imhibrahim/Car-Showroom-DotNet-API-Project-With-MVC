@@ -58,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Car-Showroom-DotNet-API-Project-With-MVC/NewIdentity/NewIdentity/Views/Car/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXGVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Car-Showroom-DotNet-API-Project-With-MVC/NewIdentity/NewIdentity/Views/Car/fatch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXGZhdGNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
